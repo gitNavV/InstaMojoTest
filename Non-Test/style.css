@@ -1,0 +1,28 @@
+.task {
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.product {
+    padding: 30px;
+}
+.item {
+    width: 350px;
+    border: solid 1px grey;
+    border-radius: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+.product-img {
+    width: 100%;
+}
+.btn {
+    text-decoration: none;
+    color: white;
+    background-color: darkgreen;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+    padding: 7px;
+    border-radius: 7px;
+    border: solid 1px grey;
+}
